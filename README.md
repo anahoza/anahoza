@@ -9,7 +9,7 @@ I'm Ana and this is my GitHub profile.
     <center>* I'm beginner level data analyst</center>
    <BR> * I love connect with people around the world and collaborate with individuals from diverse backgrounds
  <BR>   * I studying now to become a junior data analyst 
- <BR>   * My mentor is
+ <BR>   * My mentor is @ppetruneac
 
 <BR><center>COURSES AND CERTIFICATIONS </center>
 <BR> * Freecodecamp,Data Analytics with Python
