@@ -32,7 +32,11 @@ I'm Ana and this is my GitHub profile.
 <BR> * Tableau
 <BR> * SQL 
 <BR> * Python 
-        
+
+
+
+
+ <BR>CTA:Connect with me on Linkedin
 <!--
 **anahoza/anahoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
