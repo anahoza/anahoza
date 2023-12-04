@@ -21,7 +21,7 @@ I'm Ana and this is my GitHub profile.
 
 <BR> *
 <a href="https://www.coursera.org/professional-certificates/google-advanced-data-analytics">Google Advanced Data Analytics</a>
-         <BR>In this course,I have learned to create data visualizations and apply statistical methods to investigate data.[Completed Nov 2023]
+         <BR>In this course,I have learned to create data visualizations and apply statistical methods to investigate data [Completed Nov 2023]
 
 
 
