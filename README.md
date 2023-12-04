@@ -29,6 +29,7 @@ I'm Ana and this is my GitHub profile.
 <BR> * Data Visualization 
 <BR> * Google Sheets
 <BR> * Statistical Analysis
+<BR> * Business intelligence
 <BR> * Tableau
 <BR> * SQL 
 <BR> * Python 
