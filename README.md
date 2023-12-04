@@ -12,8 +12,8 @@ I'm Ana and this is my GitHub profile.
  <BR> 
 
 <BR><center>COURSES AND CERTIFICATIONS </center>
-<BR> * Freecodecamp,Data Analytics with Python
-<a href="https://www.freecodecamp.org/learn/data-analysis-with-python/">Data</a>
+<BR> 
+<a href="https://www.freecodecamp.org/learn/data-analysis-with-python/">Data Analysis with Python</a>
 <BR> * Google Data Analytics Certification
 <BR> *Google Advanced Data Analytics Certification
 
