@@ -17,17 +17,22 @@ I'm Ana and this is my GitHub profile.
            <BR>In this course,I have learned the fundamentals of data analysis with Python.The course covered everything from cleaning and processing data to using libraries like Numpy,Pandas,Matplotlib and Seaborn.[Completed Sep 2023]
 <BR> * 
 <a href="https://www.coursera.org/professional-certificates/google-data-analytics">Google Data Analytics</a>
-<BR> *Google Advanced Data Analytics Certification
+           <BR>In this course, I have learned key analytical skills (data cleaning, analysis, & visualization) and tools (spreadsheets, SQL, Python programming, Tableau).[Completed Oct 2023]
+
+<BR> *
+<a href="https://www.coursera.org/professional-certificates/google-advanced-data-analytics">Google Advanced Data Analytics</a>
+         <BR>In this course,I have learned to create data visualizations and apply statistical methods to investigate data.[Completed Nov 2023]
 
 
 
 <BR><CENTER>SKILLS 
-<BR> * C++
-<BR> * HTML
+<BR> * Data Analysis
+<BR> * Data Visualization 
 <BR> * Google Sheets
-<BR> * Microsoft Excel
+<BR> * Statistical Analysis
 <BR> * Tableau
-<BR> * Microsoft SQL Server
+<BR> * SQL 
+<BR> * Python 
         
 <!--
 **anahoza/anahoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
