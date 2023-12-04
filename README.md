@@ -6,13 +6,14 @@ I'm Ana and this is my GitHub profile.
 
 
 <BR>
-    <center>* I'm beginner level data analyst</center>
-   <BR> * I love connect with people around the world and collaborate with individuals from diverse backgrounds
- <BR>   * I studying now to become a junior data analyst 
- <BR>   * My mentor is @ppetruneac
+    <center>* I am a self-thought data analyst, learning under the mentorship of Pavel Petruneac.</center>
+   <BR> *I come from a technical, computer science background, having studied C++, HTML in high school.
+ <BR>   * I love connecting with people around the world and collaborate with individuals from diverse backgrounds.
+ <BR> 
 
 <BR><center>COURSES AND CERTIFICATIONS </center>
 <BR> * Freecodecamp,Data Analytics with Python
+<BR> <a href="https://www.freecodecamp.org/learn/data-analysis-with-python/> DATA ANALYSIS WITH PYTHON</a>
 <BR> * Google Data Analytics Certification
 <BR> *Google Advanced Data Analytics Certification
 
