@@ -17,7 +17,8 @@ I'm Ana and this is my GitHub profile.
  <BR>   * I love connecting with people around the world and collaborate with individuals from diverse backgrounds.
  <BR> 
 
-<BR><center><font size='10' color='red' face='Times New Roman'>COURSES AND CERTIFICATIONS </center></font>
+<BR><center>
+<font size='10' color='red' face='Times New Roman'>COURSES AND CERTIFICATIONS </center></font>
 <BR> *
 <a href="https://www.freecodecamp.org/certification/fccf47610ef-e3c5-497a-ade2-247801ed3d74/data-analysis-with-python-v7">Data Analysis with Python</a> 
            <BR>In this course,I have learned the fundamentals of data analysis with Python.The course covered everything from cleaning and processing data to using libraries like Numpy, Pandas, Matplotlib and Seaborn. [Completed Sep 2023]
