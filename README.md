@@ -13,7 +13,7 @@ I'm Ana and this is my GitHub profile.
 
 
 <BR>
-    <center>* I am a self-thought data analyst, learning under the mentorship of <a href="https://www.linkedin.com/in/ppetruneac/">Pavel Petruneac</a>.</center>
+    <center>* I am a self-taught data analyst, learning under the mentorship of <a href="https://www.linkedin.com/in/ppetruneac/">Pavel Petruneac</a>.</center>
    <BR> *I come from a technical, computer science background, having studied C++, HTML in high school.
  <BR>   * I love connecting with people around the world and collaborate with individuals from diverse backgrounds.
  <BR> 
