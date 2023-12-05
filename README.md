@@ -2,8 +2,6 @@
 
 
 
-
-
 ### Hi there 👋
 I'm Ana and this is my GitHub profile.
 
