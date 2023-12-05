@@ -16,6 +16,8 @@ I'm Ana and this is my GitHub profile.
     <center>* I am a self-taught data analyst, learning under the mentorship of <a href="https://www.linkedin.com/in/ppetruneac/">Pavel Petruneac</a>.</center>
    <BR> *I come from a technical, computer science background, having studied C++, HTML in high school.
  <BR>   * I love connecting with people around the world and collaborate with individuals from diverse backgrounds.
+ <BR>   * I am passionate about reading and music. I have been part of an orchestra for 10 years and play an instrument.
+<BR>    * Also, I love nature walks.
  <BR> 
 
 <BR><center>
