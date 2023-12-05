@@ -51,7 +51,8 @@ I'm Ana and this is my GitHub profile.
 <BR> * SQL 
 <BR> * Python 
 
- <BR>CTA:Connect with me on Linkedin.
+ <BR>If you'd like, you can get in touch with me through my linkedin profile, the link is right below
+ <a href="https://www.linkedin.com/in/ana-maria-hoza-23a004291/"></a>
 <!--
 **anahoza/anahoza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
